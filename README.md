@@ -3,7 +3,9 @@ A simple theme for nginx for autoindexed directories
 
 ## How to use
 
-Create a directory called `theme` under your nginx root directory, defaul is `/var/www/html` so the theme directory will be located in `/var/www/html/theme`
+Create a directory called `theme` under your nginx root directory.
+
+If you are using the nginx default directory, it is `/var/www/html` so the theme directory will be located in `/var/www/html/theme`
 
 Add indexing to your directory
 ```
