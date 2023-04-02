@@ -1,6 +1,10 @@
 # nginx-autoindex-theme
 A simple theme for nginx for autoindexed directories
 
+<img src="https://raw.githubusercontent.com/somik123/nginx-autoindex-theme/main/screenshot.png" />
+
+.
+
 ## How to use
 
 Create a directory called `theme` under your nginx root directory.
